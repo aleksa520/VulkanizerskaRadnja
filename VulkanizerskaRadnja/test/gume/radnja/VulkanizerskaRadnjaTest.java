@@ -105,7 +105,7 @@ public class VulkanizerskaRadnjaTest {
 		LinkedList<AutoGuma> gume1 = new LinkedList<AutoGuma>();
 		AutoGuma a = new AutoGuma();
 		a.setMarkaModel("Pirelli");
-		a.setPrecnik(15);
+		a.setPrecnik(15); 
 		a.setSirina(200);
 		a.setVisina(50);
 		v.dodajGumu(a);
