@@ -4,7 +4,7 @@ package gume;
  * Klasa koja predstavlja gume
  * 
  * @author Aleksa Pavlovic
- * @version 1.1
+ * @version 1.0
  */
 public class AutoGuma {
 	/**
